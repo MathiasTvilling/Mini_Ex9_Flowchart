@@ -13,4 +13,6 @@ The first idea we came up with is based on the use of API's. It is a Twitterbot,
 
 
 The second idea was to create something like an inverted Facebook. We were very interested in the metrics of Facebook, and how we are allowed to see some of the metrics, but not all. So the idea was to create a layout in which the hidden metrics are the ones shown to us. "500 people scrolled past this photo without liking" for example. The flowchart looks like this:
+
+
 ![alt tekst](https://github.com/MathiasTvilling/Mini_Ex9_Flowchart/blob/master/30184563_1789323101129749_2142557567_n.png)
