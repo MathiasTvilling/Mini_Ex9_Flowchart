@@ -8,6 +8,10 @@ The flowchart is aimed at a person who has the same ammount of limited experienc
 
 One thing I got to think about in doing this flowchart, is how I find simplicity in code and programming to be very difficult to obtain. In making the program, we overcame plenty of hurdles, and it proved a challenging task. But all of that, can be boiled down to something as simple as the flowchart above. I can imagine flowcharts is an effective way of keeping track of ideas, and perhaps materializing concepts for programming without having to code them. 
 
+
+
+
+
 _GROUP WORK_
 
 The first idea we came up with is based on the use of API's. It is a Twitterbot, made to look like a completely regular man. This profile then tweets nothing but tweets from the hashtag #meetoo. It pulls these tweets from female profiles, but posts them as though it was a man sharing his experiences instead. This idea is meant to explore if there is a difference in perception of the tweets when coming from the opposite gender. There is some technical challenges to overcome, since we have no experience in working with the Twitter API specifically, but it seems there is many project to look to in terms of inspiration, and we feel comfortable that it can be done with enough time put into it. The flowchart looks like this:
