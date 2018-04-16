@@ -12,6 +12,9 @@ _GROUP WORK_
 The first idea we came up with is based on the use of API's. It is a Twitterbot, made to look like a completely regular man. This profile then tweets nothing but tweets from the hashtag #meetoo. It pulls these tweets from female profiles, but posts them as though it was a man sharing his experiences instead. This idea is meant to explore if there is a difference in perception of the tweets when coming from the opposite gender. The flowchart looks like this:
 
 
+![alt tekst](https://github.com/MathiasTvilling/Mini_Ex9_Flowchart/blob/master/30180342_2026642034016621_278840799_n.png)
+
+
 The second idea was to create something like an inverted Facebook. We were very interested in the metrics of Facebook, and how we are allowed to see some of the metrics, but not all. So the idea was to create a layout in which the hidden metrics are the ones shown to us. "500 people scrolled past this photo without liking" for example. The flowchart looks like this:
 
 
